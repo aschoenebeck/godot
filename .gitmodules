@@ -1,0 +1,6 @@
+[submodule "modules/GodotSQL"]
+	path = modules/GodotSQL
+	url = https://github.com/FrogSquare/GodotSQL
+[submodule "modules/GodotFireBase"]
+	path = modules/GodotFireBase
+	url = https://github.com/FrogSquare/GodotFireBase.git
